@@ -1,3 +1,24 @@
+## React App for conversation with Lexy
+
+### What
+
+Project to learn key ideas about React
+
+### Why
+
+- Demonstrate the point of **props** and how they work in react
+  - Compare [`src/pages/index.tsx`](/src/pages/index.tsx) and [localhost:3000](localhost:3000) with [`src/pages/props.tsx`](/src/pages/props.tsx) and [localhost:3000/props](localhost:3000/props) for example on reusability and "Why React"
+- Demonstrate **state** and how it works
+  - See [`src/pages/index.tsx`](/src/pages/index.tsx) and [localhost:3000/state](localhost:3000/state) for an example of "why state"
+
+### How
+
+I've created a few pages to demonstrate different react features and why they might be helpful when developing frontend web applications.
+
+## Ignore everything below unless you are running the app yourself
+
+---
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
